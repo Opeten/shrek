@@ -18,3 +18,8 @@ body::before{
     position:absolute;
     z-index: -1;
 }
+
+.icon {
+    height: 50px;
+    transition-duration: 700ms;
+}
